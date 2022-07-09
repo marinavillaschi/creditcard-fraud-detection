@@ -20,7 +20,7 @@ The main goal is to improve **Machine Learning** algorithms based on the large v
 
 ## Results
 
-The entire process is detailed and coded in the notebooks: [PT](https://github.com/marinavillaschi/creditcard-fraud-detection/blob/main/Detecção_de_transações_fraudulentas_em_cartõ__es_de_crédito.ipynb) or [EN](https://github.com/marinavillaschi/creditcard-fraud-detection/blob/main/Credit_card_fraud_detection.ipynb)
+The entire process is detailed and coded in the notebooks: [PT](https://github.com/marinavillaschi/creditcard-fraud-detection/blob/main/Detec%C3%A7%C3%A3o_de_transa%C3%A7%C3%B5es_fraudulentas_em_cart%C3%B5es_de_cr%C3%A9dito.ipynb) or [EN](https://github.com/marinavillaschi/creditcard-fraud-detection/blob/main/Credit_card_fraud_detection.ipynb)
 
 Also, a blog post of the findings is available [here](https://pandascouple.medium.com/detec%C3%A7%C3%A3o-de-transa%C3%A7%C3%B5es-fraudulentas-em-cart%C3%B5es-de-cr%C3%A9dito-41b386b32f01).
 
