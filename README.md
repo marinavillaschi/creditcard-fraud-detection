@@ -1,4 +1,4 @@
-# Churn Prediction for Telecom Company
+# Credit Card Transaction Fraud Detection
 
 
 <center><img width="60%" src="http://images.unsplash.com/photo-1563013544-824ae1b704d3?ixlib=rb-1.2.1&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max"></center>
@@ -16,7 +16,6 @@ It is important that credit card companies have the ability to **recognize fraud
 Considering the financial loss can be minimized, investments in AI for fraud detection have been growing in the past few years.
 
 The main goal is to improve **Machine Learning** algorithms based on the large volume of historical data available. The smallest improvement can represent saving a large amount of money.
-
 
 
 ## Results
